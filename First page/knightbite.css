@@ -1,0 +1,475 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* font-family: "Nunito";
+    box-sizing: border-box; */
+}
+body{
+    font-family: 'Black Ops One', cursive;
+font-family: 'Titan One', cursive;
+}
+#bga{
+    margin: 0%;
+    margin-left: 0%;
+    position: absolute;
+    height: 100%;
+    width:100%;
+    background-size:cover;
+    background-image:url(./backgoundimage\ 1.svg);
+    /* text-align: center; */
+}
+#comment{
+    position: fixed;
+    bottom: 4%;
+    right: 2%;
+}
+#comm{
+ border-radius: 35px 15px 40px 40px;   
+}
+
+
+
+#a{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 140px;
+    background: rgba(0, 0, 0, 0.12);
+    display: flex;
+    align-items: center;
+}
+.logo{
+    position: absolute;
+    padding-left: 5%;
+}
+#homediv{
+    position: absolute;
+    margin-left: 58%;
+    padding-left: 5%;
+}
+#home:visited{
+    color: white;
+    height: 50px;
+}
+.home{
+    text-decoration: none;
+}
+#aboutdiv{
+    position: absolute;
+    margin-left: 65%;
+    padding-left: 5%;
+}
+#about:visited{
+    color: white;
+    height: 50px;
+    text-decoration: none;
+}
+.about{
+    text-decoration: none;
+}
+#menudiv{
+    position: absolute;
+    margin-left: 72%;
+    padding-left: 5%;
+}
+#menu:visited{
+    color: white;
+    height: 50px;
+    text-decoration: none;
+}
+.menu{
+    text-decoration: none;
+}
+#Franchisediv{
+    position: absolute;
+    margin-left: 79%;
+    padding-left: 5%;
+}
+#Franchise:visited{
+    color: white;
+    height: 50px;
+    text-decoration: none;
+}
+.Franchise{
+    text-decoration: none;
+}
+#ORDER{
+    position: absolute;
+    color: aliceblue;
+    /* font-family: 'nicotineregular'; */
+    top: 40%;
+    margin-left: 5%;
+    font-size: 5em;
+    font-style: oblique;
+   letter-spacing: 6px;
+}
+#ordernow{
+    font-size: 20px;
+    /* font-style: oblique; */
+    padding: 10px 20px;
+    position: absolute;
+    margin-top: 22%;
+    margin-left: 43%;
+    color: white;
+    background-color: #FF5672;
+    height: 5%;
+    width: 130px;
+    border-radius: 10px;
+}
+.ordernowcolor:visited{
+    color: white;
+}
+#ordernowcolor{
+    text-decoration: none;
+}
+#Or{
+    color: white;
+    font-size: 26px;
+    font-style: oblique;
+    position: absolute;
+    top: 73%;
+    left: 48%;
+}
+#appstore{
+    position: absolute;
+    top: 80%;
+    left: 33%;
+}
+#googleplay{
+    position: absolute;
+    top: 79%;
+    left: 51%;
+}
+#b{
+    height: 100px;
+    width:100px;
+    background-color: white;
+}
+#features{
+    position: absolute;
+    top: 110%;
+    left: 43%;
+    color: #424242;
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+}
+#late{
+    position: absolute;
+    top: 130%;
+    left: 7%;
+}
+#latename{
+    position: absolute;
+    top: 165%;
+    left: 7%;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+}
+#onapp{
+    position: absolute;
+    top: 130%;
+    left: 24%;
+}
+#onappname{
+    position: absolute;
+    top: 165%;
+    left: 24%;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+}
+#Delivery{
+    position: absolute;
+    top: 130%;
+    left: 40%;
+}
+#deliveryname{
+    position: absolute;
+    top: 165%;
+    left: 40%;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+}
+#food{
+    position: absolute;
+    top: 130%;
+    left: 60%;
+}
+#foodname{
+    position: absolute;
+    top: 165%;
+    left: 60%;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+}
+#bulk{
+    position: absolute;
+    top: 130%;
+    left: 78%;
+}
+#bulkname{
+    position: absolute;
+    top: 165%;
+    left: 78%;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#bgb{
+    margin: 0;
+    position: absolute;
+    top: 200%;
+    height: 150%;
+    width:100%;
+    background-size:cover;
+    background-image:url(./bg2knight.webp);
+     /* text-align: center;  */
+}
+#enjoy{
+    position: absolute;
+    color: aliceblue;
+    font-family: 'nicotineregular';
+    top: 50%;
+    margin-left: 5%;
+    font-size: 5.5em;
+    font-family: 'nicotineregular';
+    font-weight: 1500;
+   letter-spacing: 6px;
+}
+
+#bgc{
+    position: absolute;
+    top: 350%;
+    height: 150%;
+    width:100%;
+    background-size:cover;
+    background-image:url(./bg3khingt.webp);
+     text-align: center; 
+}
+
+#burger{
+    position: absolute;
+    color: aliceblue;
+    font-family: 'nicotineregular';
+    top: 45%;
+    margin-left: 5%;
+    font-size: 5.5em;
+    font-family: 'nicotineregular';
+    font-weight: 1500;
+   letter-spacing: 6px;
+   text-align: center;
+}
+
+#see{
+    /* margin: 0 auto 100px; */
+    position: absolute;
+    top: 84%;
+    left: 40%;
+    width: 250px;
+    border: 2px solid white;
+    background: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 30px;
+    color: white;
+    border-radius: 50px
+}
+#fullmenu:visited{
+    color: white;
+}
+.fullmenu{
+    text-decoration: none;
+}
+#connect{
+    position: absolute;
+    top: 510%;
+    left: 35%;
+    color: #424242;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+#us{
+    position: absolute;
+    top: 540%;
+    left: 6%;
+    color: #424242;
+    font-weight: 300;
+    font-size: 20px;
+
+}
+#email{
+    position: absolute;
+    top: 560%;
+    left: 7%;
+    margin-right: 0px;
+}
+#emailcom{
+    position: absolute;
+    top: 560.5%;
+    left: 12%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 22px;
+}
+#phone{
+    position: absolute;
+    top: 570%;
+    left: 7%;
+    margin-right: 0px;
+}
+#number{
+    position: absolute;
+    top: 569.5%;
+    left: 12%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 25px;
+}
+#Available{
+    position: absolute;
+    top: 576.5%;
+    left: 12%;
+    color: #424242;
+    font-size: 18px;
+}
+#Quick{
+    position: absolute;
+    top: 540%;
+    left: 30%;
+    color: #424242;
+    font-weight: 300;
+    font-size: 20px;
+
+}
+#list{
+    position: absolute;
+    top: 558%;
+    left: 33%;
+}
+li{
+    color:#FF5672;
+    padding: 8% 5%;
+    font-size: 22px;
+}
+#liblack{
+    color:#424242;
+    padding: 8% 5%;
+    font-size: 22px;
+}
+
+#enter{
+    position: absolute;
+    top: 540%;
+    left: 53%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 25px;
+}
+/* .join{
+    position: absolute;
+    top: 2cm;
+    left: 53%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 25px;
+} */
+#input-field{
+    position: absolute;
+    top: 150%;
+    border: 1px solid black;
+    font-size: 22px;
+    border-radius: 50px;
+    padding: 2% 45% 2% 10%;
+    height: 60px;
+    width: 200px;
+}
+#mx{
+    position: absolute;
+    top: 150%;
+    left: 74%;
+}
+#head{
+    position: absolute;
+    top: 605%;
+    left: 6%;
+    color: #424242;
+    font-weight: 300;
+    font-size: 20px;
+}
+#address{
+    position: absolute;
+    top: 618%;
+    left: 6%;
+    color: #424242;
+    font-size: 18px;
+}
+#loc{
+    position: absolute;
+    top: 605%;
+    left: 30%;
+    color: #424242;
+    font-weight: 300;
+    font-size: 20px;
+}
+#blg{
+    position: absolute;
+    top: 615%;
+    left: 30%;
+    color: #424242;
+    font-size: 18px;
+    
+}
+#city{
+    color:#424242;
+    padding: 8% 5%;
+    font-size: 18px;
+}
+#follow{
+position: absolute;
+top: 605%;
+left: 55%;
+color: #424242;
+font-weight: 300;
+font-size: 20px;
+}
+#insta{
+    position: absolute;
+    top: 618%;
+    left: 55%;
+}
+#facebook{
+    position: absolute;
+    top: 618%;
+    left: 62%;
+}
+#twitter{
+    position: absolute;
+    top: 618%;
+    left: 69%;
+}
+#linkedin{
+    position: absolute;
+    top: 618%;
+    left: 76%;
+}
+#youtube{
+    position: absolute;
+    top: 618%;
+    left: 82%;
+}
+#lastlogo1{
+    position: absolute;
+    top: 650vh;
+    left: 40%;
+}
+#lastlogo{
+    position: absolute;
+    top: 654vh;
+    left: 50%;
+}

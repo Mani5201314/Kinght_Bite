@@ -1,0 +1,185 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.bga{
+    position: fixed;
+    margin: 0%;
+    margin-left: 0%;
+    position: absolute;
+    height: 100%;
+    width:100%;
+    background-size:cover;
+    background-image:url(./bg1.webp);
+    /* text-align: center; */
+}
+#comment{
+    position: fixed;
+    bottom: 4%;
+    right: 2%;
+}
+#comm{
+ border-radius: 35px 15px 40px 40px;   
+}
+
+#a{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 140px;
+    background: rgba(0, 0, 0, 0.12);
+    display: flex;
+    align-items: center;
+}
+.logo{
+    position: absolute;
+    padding-left: 5%;
+}
+#homediv{
+    position: absolute;
+    margin-left: 58%;
+    padding-left: 5%;
+}
+#home:visited{
+    color: white;
+    height: 50px;
+}
+.home{
+    text-decoration: none;
+}
+#aboutdiv{
+    position: absolute;
+    margin-left: 65%;
+    padding-left: 5%;
+}
+#about:visited{
+    color: white;
+    height: 50px;
+    text-decoration: none;
+}
+.about{
+    text-decoration: none;
+}
+#menudiv{
+    position: absolute;
+    margin-left: 72%;
+    padding-left: 5%;
+}
+#menu:visited{
+    color: white;
+    height: 50px;
+    text-decoration: none;
+}
+.menu{
+    text-decoration: none;
+}
+#Franchisediv{
+    position: absolute;
+    margin-left: 79%;
+    padding-left: 5%;
+}
+#Franchise:visited{
+    color: white;
+    height: 50px;
+    text-decoration: none;
+}
+.Franchise{
+    text-decoration: none;
+}
+
+
+#bg1text{
+    color: #fff;
+    font-size: 26px;
+    margin-top: 150px;
+    width: 50vw;
+    padding-left: 80px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: nicotineregular;
+}
+#fooditems{
+    position: absolute;
+    top: 120%;
+    left: 15%;
+}
+#itemtext{
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 25px;
+}
+#phonetext{
+    position: absolute;
+    margin-top: 54%;
+    margin-left: 0%;
+    padding: 20% 50% 20% 5%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 25px;
+}
+#phone{
+    position: absolute;
+    margin-top: 70%;
+    margin-left: 55%;
+}
+#burger{
+    position: absolute;
+    margin-top: 82%;
+    margin-left: 0%;
+    padding: 20% 50% 20% 5%;
+}
+#burgertext{
+    position: absolute;
+    margin-top: 113%;
+    margin-left: 55%;
+    color: #424242;
+    font-weight: 150;
+    font-size: 25px;
+}
+#loc{
+    position: absolute;
+    margin-top: 115%;
+    margin-left: 0%;
+    padding: 20% 50% 20% 5%;
+    color: #424242;
+    font-weight: 300;
+    font-size: 20px;
+}
+#blg{
+    color: #424242;
+    font-weight: 300;
+    font-size: 30px;
+    padding-right: 0;
+}
+#blg span{
+    color: #424242;
+    font-weight: 300;
+    font-size: 25px;
+}
+#us{
+    position: absolute;
+    margin-top: 150%;
+    margin-left: 50%;
+    color: #424242;
+    font-weight: 300;
+    font-size: 20px;
+}
+#face{
+    position: absolute;
+    margin-left: 15%;
+}
+#twitter{
+    position: absolute;
+    margin-left: 55%;
+}
+#link{
+    position: absolute;
+    margin-left: 100%;
+}
+#you{
+    position: absolute;
+    margin-left: 150%;
+}
